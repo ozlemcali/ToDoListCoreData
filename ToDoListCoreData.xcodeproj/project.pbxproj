@@ -14,6 +14,8 @@
 		C3291A25291BC3B100B98FC5 /* ToDoListCoreData.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C3291A23291BC3B100B98FC5 /* ToDoListCoreData.xcdatamodeld */; };
 		C3291A27291BC3B100B98FC5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C3291A26291BC3B100B98FC5 /* Assets.xcassets */; };
 		C3291A2A291BC3B100B98FC5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C3291A28291BC3B100B98FC5 /* LaunchScreen.storyboard */; };
+		C3291A38291BC89C00B98FC5 /* ToDoListItem+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3291A36291BC89C00B98FC5 /* ToDoListItem+CoreDataClass.swift */; };
+		C3291A39291BC89C00B98FC5 /* ToDoListItem+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3291A37291BC89C00B98FC5 /* ToDoListItem+CoreDataProperties.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		C3291A26291BC3B100B98FC5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C3291A29291BC3B100B98FC5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C3291A2B291BC3B100B98FC5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C3291A36291BC89C00B98FC5 /* ToDoListItem+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToDoListItem+CoreDataClass.swift"; sourceTree = "<group>"; };
+		C3291A37291BC89C00B98FC5 /* ToDoListItem+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ToDoListItem+CoreDataProperties.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +46,8 @@
 		C3291A0E291BC3B000B98FC5 = {
 			isa = PBXGroup;
 			children = (
+				C3291A36291BC89C00B98FC5 /* ToDoListItem+CoreDataClass.swift */,
+				C3291A37291BC89C00B98FC5 /* ToDoListItem+CoreDataProperties.swift */,
 				C3291A19291BC3B100B98FC5 /* ToDoListCoreData */,
 				C3291A18291BC3B100B98FC5 /* Products */,
 			);
@@ -144,6 +150,8 @@
 				C3291A1F291BC3B100B98FC5 /* ViewController.swift in Sources */,
 				C3291A1B291BC3B100B98FC5 /* AppDelegate.swift in Sources */,
 				C3291A25291BC3B100B98FC5 /* ToDoListCoreData.xcdatamodeld in Sources */,
+				C3291A38291BC89C00B98FC5 /* ToDoListItem+CoreDataClass.swift in Sources */,
+				C3291A39291BC89C00B98FC5 /* ToDoListItem+CoreDataProperties.swift in Sources */,
 				C3291A1D291BC3B100B98FC5 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
