@@ -1,25 +1,20 @@
 # ToDoListCoreData
 To do list with core data
-# WeatherApp
-Weather app with OpenWeatherMap API
+
 
 ## About Project
-In this project, I made a weather app with dark mode. You can find out the weather conditions of that place by searching the city name.
+In this project,I made a to do list app using core data. You can write and save the work that needs to be done. You can delete tasks after completing them.
 
 ## Includes
 
-* Dark-mode
-* Vector images as image assets
-* UITextField
-* Delegate pattern
-* Protocols and Extensions
-* Swift closures and completion handlers
-* URLSession and HTTP requests
-* Parsing JSON with the native Encodable and Decodable protocols 
-* Grand Central Dispatch
+* Core Data
+* UIAlertController
+* UIAlertAction
+* UITableViewDelegate
+* UITableViewDataSource
 
 
 
 ## Images
-<img src="https://github.com/ozlemcali/WeatherApp/blob/main/WeatherApp/GithubSS/Ekran%20resmi1.png" width ="372.8" height= "702.4"> <img src="https://github.com/ozlemcali/WeatherApp/blob/main/WeatherApp/GithubSS/Ekran%20resmi2.png" width ="372.8" height= "702.4"> 
-<img src="https://github.com/ozlemcali/WeatherApp/blob/main/WeatherApp/GithubSS/Ekran%20resmi3.png" width ="372.8" height= "702.4"> <img src="https://github.com/ozlemcali/WeatherApp/blob/main/WeatherApp/GithubSS/Ekran%20resmi4.png" width ="372.8" height= "702.4"> 
+<img src="https://github.com/ozlemcali/ToDoListCoreData/blob/main/GithubSS/ekranresmi1.png" width ="372.8" height= "702.4"> <img src="https://github.com/ozlemcali/ToDoListCoreData/blob/main/GithubSS/ekranresmi2.png" width ="372.8" height= "702.4"> 
+<img src="https://github.com/ozlemcali/ToDoListCoreData/blob/main/GithubSS/ekranresmi3.png" width ="372.8" height= "702.4"> 
